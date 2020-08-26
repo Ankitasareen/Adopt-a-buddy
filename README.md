@@ -1,9 +1,10 @@
 # Adopt-a-buddy
 
-PROBLEM STATEMENT:
-A leading pet adoption agency is planning to create a virtual tour experience for their customers showcasing all animals that are available in their shelter. To enable this tour experience, you are required to build a Machine Learning model that determines type and breed of the animal based on its physical attributes and other factors.
+# PROBLEM STATEMENT:
 
-DATA
+A leading pet adoption agency is planning to create a virtual tour experience for their customers showcasing all animals that are available in their shelter. To enable this tour experience, you are required to build a Machine Learning model that determines type and breed of the animal based on its physical attributes and other factors.
+**DATA
+
 The data consists the following columns
 
 Column Description
@@ -18,7 +19,8 @@ Sl No.	Column Name	Description
 8	X1,X2	Anonymous columns
 9	breed_category	Breed category of the pet (target variable)
 10	pet_category	Category of the pet (target variable)
-DATA DESCRIPTION:
+
+# DATA DESCRIPTION:
 The data folder consists of 2 CSV files
 
 train.csv - 18834 x 11

@@ -1,11 +1,11 @@
-Approach used.
+# Approach used.
 
-1. Trained two different models for two different targets ie 'pet category' and 'breed category'
-2. Used the listing and the issue date to calculate the days and the hours.
-3. Identifying the null values and fillinf it with constamt value.
-4.Label encoding for categorical variable ie 'color type'.
-5. Checked for the skewness of the continuous variables.
-6.Days were right skewed so applied log transformation.
-7. Feature selection and checking the correlation with the target variables.
-8. Applied XGBoost classifier (multiclass) for both the target variables.
-9.Evalution metrics - F1 score(weighted)
+## 1. Trained two different models for two different targets ie 'pet category' and 'breed category'
+## 2. Used the listing and the issue date to calculate the days and the hours.
+## 3. Identifying the null values and fillinf it with constamt value.
+## 4.Label encoding for categorical variable ie 'color type'.
+## 5. Checked for the skewness of the continuous variables.
+## 6.Days were right skewed so applied log transformation.
+## 7. Feature selection and checking the correlation with the target variables.
+## 8. Applied XGBoost classifier (multiclass) for both the target variables.
+## 9.Evalution metrics - F1 score(weighted)
